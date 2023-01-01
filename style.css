@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+}
+#all{
+	padding-left:10px;
+	display:inline-block;
+
+}
+#searchForm{
+	height:40px;
+	width:300px;
+	font-size:20px;
+}
+#lists{
+	display: none;
+	border: 1px solid;
+
+}
+
+
+.hide {
+	display: none;
+  }
+
+  .item{
+	list-style:none;
+	margin-bottom:2px;
+	cursor: pointer;
+	padding:10px;
+  }
+
+  .item:hover {
+	background-color:#EEEEEE;
+  }
+  
